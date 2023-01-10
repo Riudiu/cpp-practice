@@ -1,4 +1,4 @@
-// 1.헤더파일을 include 시킨다. 
+// 헤더파일을 include 시킨다. 
 // bits/stdc++.h는 C++의 모든 표준 라이브러리가 포함된 헤더파일이다. 
 // 이를 include라는 지시문을 통해 이 프로그램에 포함시킨다라는 의미.
 #include </Users/jiwooyun/bits/stdc++.h>  
